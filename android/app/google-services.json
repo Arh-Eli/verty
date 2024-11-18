@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455194113990",
+    "project_id": "verty-abca8",
+    "storage_bucket": "verty-abca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455194113990:android:6ff3d194b364fad461a4c7",
+        "android_client_info": {
+          "package_name": "com.verty.verty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hV2XjdsbPjpgTqdvW_5Il21SoyrGFbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
